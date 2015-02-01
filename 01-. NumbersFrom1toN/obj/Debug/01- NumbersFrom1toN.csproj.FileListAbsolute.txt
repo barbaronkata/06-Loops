@@ -1,0 +1,6 @@
+D:\proeti\06-Loops\01-. NumbersFrom1toN\bin\Debug\_01_.NumbersFrom1toN.exe.config
+D:\proeti\06-Loops\01-. NumbersFrom1toN\bin\Debug\_01_.NumbersFrom1toN.exe
+D:\proeti\06-Loops\01-. NumbersFrom1toN\bin\Debug\_01_.NumbersFrom1toN.pdb
+D:\proeti\06-Loops\01-. NumbersFrom1toN\obj\Debug\01- NumbersFrom1toN.csprojResolveAssemblyReference.cache
+D:\proeti\06-Loops\01-. NumbersFrom1toN\obj\Debug\_01_.NumbersFrom1toN.exe
+D:\proeti\06-Loops\01-. NumbersFrom1toN\obj\Debug\_01_.NumbersFrom1toN.pdb
